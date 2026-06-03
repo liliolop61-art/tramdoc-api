@@ -1,0 +1,24 @@
+[
+  {
+    "title": "One Piece",
+    "author": "Oda",
+    "cover": "https://i.imgur.com/1.jpg",
+    "chapters": [
+      {
+        "name": "Chapter 1",
+        "pages": [
+          "https://i.imgur.com/page1.jpg",
+          "https://i.imgur.com/page2.jpg",
+          "https://i.imgur.com/page3.jpg"
+        ]
+      },
+      {
+        "name": "Chapter 2",
+        "pages": [
+          "https://i.imgur.com/page4.jpg",
+          "https://i.imgur.com/page5.jpg"
+        ]
+      }
+    ]
+  }
+]
